@@ -1,7 +1,11 @@
 Задание 1
 
+![image](https://user-images.githubusercontent.com/121572590/235342155-e9aa840f-dfce-407f-913f-ee47b77a18e2.png)
 
-![image](https://user-images.githubusercontent.com/121572590/235342052-d131f56f-0d04-4ff8-92c0-6980f70ef8f9.png)
+![image](https://user-images.githubusercontent.com/121572590/235342195-426a89f2-00c7-47ed-a6c9-ec8c2c04d906.png)
+
+![image](https://user-images.githubusercontent.com/121572590/235342118-8adc055b-cba5-41ad-ba61-0419fb58f8e5.png)
+
 
 Задание 2
 Приведите ответ в свободной форме........
